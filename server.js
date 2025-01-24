@@ -11,7 +11,7 @@ const PORT = 5000;
 
 // Middleware
 const corsOptions = {
-  origin: 'http://localhost:5173',
+  origin: 'https://pursuit-calculator-sgv.netlify.app',
   optionsSuccessStatus: 200
 };
 
